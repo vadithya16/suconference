@@ -194,6 +194,7 @@ h1.h1-header {
 h1.h1-about {
     text-align: center;
     margin-bottom: 0;
+    color: #005597;
 }
 h1.h1-about.h1margin {
     margin: 0;
