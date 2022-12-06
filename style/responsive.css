@@ -1,0 +1,244 @@
+/*Responsive*/
+/*Responsive mobile*/
+@media only screen and (max-width: 480px) {
+h1 {
+    font-size: 2em;
+}
+p {
+	font-size: 1em;
+}
+.navbar {
+    display: none;
+}
+.headmob {
+    display: block;
+}
+.cover {
+    width: auto;
+    height: auto;
+}
+.coverfilter {
+    width: auto;
+    height: auto;
+}
+h1.h1-header {
+    font-size: 2em;
+    padding-top: 100px;
+    padding-right: 0;
+    padding-bottom: 50px;
+}
+img.img-logo {
+    display: none;
+}
+.div-about-box {
+    display: block;
+}
+p.p-about {
+    text-align: justify;
+    padding: 0;
+}
+p.p-about-conf {
+    text-align: justify;
+    padding: 0;
+}
+.div-patron {
+    padding: 1px;
+}
+.div-patron-box {
+    display: block;
+}
+.patroncard {
+    width: 90%;
+}
+.containerfaq {
+    width: auto;
+}
+.div-contact {
+    height: auto;
+    display: block;
+}
+.div-contact-box {
+    width: auto;
+    text-align: start;
+    margin-left: 10px;
+    padding: 1px;
+}
+br.brmob {
+	display: block;
+}
+a.amail {
+    font-size: 1em;
+}
+.div-footer {
+    height: auto;
+}
+ul {
+    padding-inline-start: 0;
+}
+.div-collab-main {
+    display: block;
+    padding: 10px;
+}
+p.authabout {
+    padding-left: 0;
+    padding-right: 0;
+}
+}
+
+/* media query tab */
+@media screen and (min-width : 481px) and (max-width: 768px) {
+h1 {
+    font-size: 2em;
+}
+p {
+	font-size: 1em;
+}
+ul {
+    padding-inline-start: 0;
+}
+.navbar {
+    display: none;
+}
+.headmob {
+    display: block;
+}
+.cover {
+    width: auto;
+    height: auto;
+}
+.coverfilter {
+    width: auto;
+    height: auto;
+}
+h1.h1-header {
+    font-size: 3em;
+    padding-top: 200px;
+    padding-right: 0;
+    padding-bottom: 50px;
+}
+img.img-logo {
+    display: none;
+}
+.div-about-box {
+    display: block;
+}
+p.p-about {
+    text-align: justify;
+    padding: 0;
+}
+p.p-about-conf {
+    text-align: justify;
+    padding: 0;
+}
+.patroncard {
+	padding: 10px;
+    width: 50%;
+}
+.div-patron-box {
+    display: block;
+    padding-bottom: 10px;
+}
+.containerfaq {
+    width: auto;
+}
+.div-contact {
+    height: auto;
+    display: block;
+}
+.div-contact-box {
+    width: auto;
+    text-align: center;
+    padding: 1px;
+    margin: 0;
+}
+.div-contact-box.txtaln {
+    width: auto;
+    text-align: center;
+}
+.div-collab-main {
+    text-align: center;
+    display: block;
+}
+li.licollab {
+    list-style-type: none;
+}
+p.authabout {
+    padding-left: 0;
+    padding-right: 0;
+}
+p.p-footer-text {
+    padding: 0;
+}
+}
+
+/* media query lap*/
+@media screen and (min-width : 769px) and (max-width: 1024px) {  
+h1 {
+    font-size: 2.2em;
+}
+p {
+	font-size: 1.2em;
+}
+.navbar {
+    display: none;
+}
+.headmob {
+    display: block;
+}
+.cover {
+    width: auto;
+    height: auto;
+}
+.coverfilter {
+    width: auto;
+    height: auto;
+}
+h1.h1-header {
+    font-size: 4em;
+    padding-top: 160px;
+    padding-right: 0;
+    padding-bottom: 50px;
+}
+img.img-logo {
+    display: none;
+}
+h1.h1-about.h1margin {
+    margin-top: 20px;
+}
+.div-about-box {
+    display: block;
+}
+p.p-about {
+    text-align: justify;
+    padding: 0;
+}
+p.p-about-conf {
+    text-align: justify;
+    padding: 0;
+}
+.containerfaq {
+    width: 80%;
+    margin: 0 auto;
+}
+.div-patron-box {
+    display: block;
+    padding-bottom: 10px;
+}
+.patroncard {
+    width: 50%;
+    max-height: fit-content;
+}
+.div-contact-box {
+    text-align: end;
+}
+.div-contact-box.txtaln {
+    text-align: start;
+    margin-left: 50px;
+}
+a.amail {
+    font-size: 0.8em;
+}
+p.p-footer-text{
+    padding: 0;
+}
+} 
