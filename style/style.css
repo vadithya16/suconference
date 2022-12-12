@@ -33,9 +33,7 @@ p {
   }
 }
 .main {
-    display: none;
-    opacity: 0;
-    transition: opacity 1s ease-in;
+    display: block;
 }
 /*Loader start*/
 .spinner {
