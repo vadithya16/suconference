@@ -242,7 +242,8 @@ h1.h1-about.h1colorblue {
 }
 .patroncard {
     width: 25%;
-    height: 50vH;
+    min-height: 50vH;
+    max-height: 50vH;
     border-radius: 20px;
     margin: 10px;
     background: #005597;
