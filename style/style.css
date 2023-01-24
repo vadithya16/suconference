@@ -394,6 +394,10 @@ a.adownload {
     color: white;
     text-decoration: none;
 }
+img.imghotel {
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+}
 /*faq end*/
 
 /*contact start*/
