@@ -16,7 +16,6 @@ SUConference is designed to facilitate conference management by providing a stru
 Website: [WCCIKSH-2023](https://suconference.vadithya.in/)
 
 ## Features
-- Conference Schedule Management
 - Speaker Profiles and Session Details
 - Online Participant Registration
 - Responsive User Interface
@@ -24,7 +23,7 @@ Website: [WCCIKSH-2023](https://suconference.vadithya.in/)
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Hosting:** GitHub Pages / Other Hosting Services
+- **Hosting:** GitHub Pages
 
 ## Contact
 For any queries or collaborations, feel free to reach out:
